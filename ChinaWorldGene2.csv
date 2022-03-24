@@ -1,0 +1,49 @@
+Country,Hospital,Year,Number,Number2,Hospital2,NumberRAW
+All other Countries,No,2007,0.5,NA,Non-hospital Affiliation,1
+All other Countries,Yes,2007,0.5,n = 2,Hospital Affiliation,1
+All other Countries,Yes,2008,NA,NA,Hospital Affiliation,NA
+All other Countries,No,2008,1,n = 2,Non-hospital Affiliation,2
+All other Countries,Yes,2009,NA,NA,Hospital Affiliation,NA
+All other Countries,No,2009,1,n = 2,Non-hospital Affiliation,2
+All other Countries,Yes,2010,NA,NA,Hospital Affiliation,NA
+All other Countries,No,2010,1,n = 1,Non-hospital Affiliation,1
+All other Countries,Yes,2011,0.25,NA,Hospital Affiliation,1
+All other Countries,No,2011,0.75,n = 4,Non-hospital Affiliation,3
+All other Countries,Yes,2012,0.12,NA,Hospital Affiliation,1
+All other Countries,No,2012,0.88,n = 8,Non-hospital Affiliation,7
+All other Countries,Yes,2013,0.12,NA,Hospital Affiliation,1
+All other Countries,No,2013,0.88,n = 8,Non-hospital Affiliation,7
+All other Countries,Yes,2014,0.2,NA,Hospital Affiliation,1
+All other Countries,No,2014,0.8,n = 5,Non-hospital Affiliation,4
+All other Countries,Yes,2015,NA,NA,Hospital Affiliation,NA
+All other Countries,No,2015,1,n = 2,Non-hospital Affiliation,2
+All other Countries,Yes,2016,NA,NA,Hospital Affiliation,NA
+All other Countries,No,2016,1,n = 5,Non-hospital Affiliation,5
+All other Countries,Yes,2017,NA,NA,Hospital Affiliation,NA
+All other Countries,No,2017,1,n = 8,Non-hospital Affiliation,8
+All other Countries,Yes,2018,NA,NA,Hospital Affiliation,NA
+All other Countries,No,2018,1,n = 12,Non-hospital Affiliation,12
+China,No,2007,NA,NA,Non-hospital Affiliation,NA
+China,Yes,2007,NA,n = 0,Hospital Affiliation,NA
+China,No,2008,NA,NA,Non-hospital Affiliation,NA
+China,Yes,2008,NA,n = 0,Hospital Affiliation,NA
+China,No,2009,NA,NA,Non-hospital Affiliation,NA
+China,Yes,2009,1,n = 1,Hospital Affiliation,1
+China,No,2010,NA,NA,Non-hospital Affiliation,NA
+China,Yes,2010,NA,n = 0,Hospital Affiliation,NA
+China,No,2011,NA,NA,Non-hospital Affiliation,NA
+China,Yes,2011,NA,n = 0,Hospital Affiliation,NA
+China,No,2012,0.33,NA,Non-hospital Affiliation,1
+China,Yes,2012,0.67,n = 3,Hospital Affiliation,2
+China,No,2013,NA,NA,Non-hospital Affiliation,NA
+China,Yes,2013,1,n = 2,Hospital Affiliation,2
+China,No,2014,0.4,NA,Non-hospital Affiliation,2
+China,Yes,2014,0.6,n = 5,Hospital Affiliation,3
+China,No,2015,0.17,NA,Non-hospital Affiliation,1
+China,Yes,2015,0.83,n = 6,Hospital Affiliation,5
+China,No,2016,0.18,NA,Non-hospital Affiliation,2
+China,Yes,2016,0.82,n = 11,Hospital Affiliation,9
+China,No,2017,0.27,NA,Non-hospital Affiliation,4
+China,Yes,2017,0.73,n = 15,Hospital Affiliation,11
+China,No,2018,0.19,NA,Non-hospital Affiliation,5
+China,Yes,2018,0.81,n = 26,Hospital Affiliation,21

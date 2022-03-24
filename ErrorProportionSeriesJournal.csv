@@ -1,0 +1,6 @@
+Corpus,GoF,LoF,CoF,IGNORE
+Single Gene Knockdown (n = 115),38.26,12.17,49.57,
+miR-145 (n = 49),4.08,18.37,77.55,
+Drug (n = 109),5.5,22.02,72.48,
+Gene (n = 279),2.87,14.69,82.44,
+Oncology Reports (n = 995),3.02,33.67,63.31,

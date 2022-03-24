@@ -1,0 +1,21 @@
+Country,Hospital,Year,Number,Number2,Hospital2
+All other Countries,Yes,2014,NA,NA,Hospital Affiliation
+All other Countries,No,2014,1,n = 8,Non-hospital Affiliation
+All other Countries,Yes,2015,0.23,NA,Hospital Affiliation
+All other Countries,No,2015,0.77,n = 13,Non-hospital Affiliation
+All other Countries,Yes,2016,NA,NA,Hospital Affiliation
+All other Countries,No,2016,1,n = 8,Non-hospital Affiliation
+All other Countries,Yes,2017,0.11,NA,Hospital Affiliation
+All other Countries,No,2017,0.89,n = 9,Non-hospital Affiliation
+All other Countries,Yes,2018,0.8,NA,Hospital Affiliation
+All other Countries,No,2018,0.2,n = 5,Non-hospital Affiliation
+China,No,2014,0.17,NA,Non-hospital Affiliation
+China,Yes,2014,0.83,n = 52,Hospital Affiliation
+China,No,2015,0.06,NA,Non-hospital Affiliation
+China,Yes,2015,0.94,n = 83,Hospital Affiliation
+China,No,2016,0.2,NA,Non-hospital Affiliation
+China,Yes,2016,0.8,n = 95,Hospital Affiliation
+China,No,2017,0.11,NA,Non-hospital Affiliation
+China,Yes,2017,0.89,n = 88,Hospital Affiliation
+China,No,2018,0.11,NA,Non-hospital Affiliation
+China,Yes,2018,0.89,n = 75,Hospital Affiliation
